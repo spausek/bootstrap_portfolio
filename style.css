@@ -1,0 +1,17 @@
+.marcus {
+	width: 180px;
+	height: 200px;
+	margin: 10px;
+	float:left;
+}
+
+.footer {
+	background: grey;
+	color:white;
+	border:2px blue;
+	padding: 20px 0px;
+	height: 20px;
+	margin-top:30px;
+	text-align: center;
+
+}
