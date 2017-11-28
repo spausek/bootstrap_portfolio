@@ -1,3 +1,23 @@
+.name {
+	width:300px;
+	position:absolute;
+	clear:both;
+	left:19%;
+	text-align: center;
+	background: #4aaaa5;
+	color: white;
+	padding-bottom: 10px;
+    z-index: 1;
+
+}
+
+.nav {
+	background: white;
+	height: 59px;
+
+}
+
+
 .marcus {
 	width: 180px;
 	height: 200px;
@@ -14,4 +34,129 @@
 	margin-top:30px;
 	text-align: center;
 
+}
+
+.container {
+	margin: 5% 0% 5% 18%;
+}
+
+body {
+	background: url(./images/spiration-light.png);
+	
+}
+
+.about_me {
+	background: white;
+    border: solid 1px #dddddd;
+    padding: 5px;
+}
+
+.about_me_border {
+	border: solid grey 1px;
+	margin-bottom: 10px;
+
+
+
+}
+
+.connect {
+	margin-left: 10px;
+    background: white;
+    width: fit-content;
+    border: solid 1px #dddddd;
+    padding: 5px;
+}
+
+h2, h3 {
+	padding: 20px; 
+	font-size: 27px;
+	  
+
+}
+
+p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 30px;
+	padding: 10px;
+
+}
+
+.connect_icons {
+	align-self: center;
+    padding: 20px;
+    margin-left: 10px;
+
+}
+
+.connect_border {
+
+	border: solid grey 1px;
+
+}
+
+.portfolio {
+	background: white;
+    border: solid 1px #dddddd;
+    padding: 5px;
+
+}
+
+.port_1, .port_2, .port_3, .port_4 {
+	height: 210px;
+	width: 210px;
+	margin: 10px 0px 35px 35px;
+	display: inline-block;
+	
+
+	}
+
+
+.text_1 {
+	position:absolute;
+	top:262px;
+	width:210px;
+	padding:10px 0 10px 0;
+	color:white;
+	background: #4aaaa5;
+	margin-left: 35px;
+	text-align: center;
+	font-family: Georgia;
+}
+
+.text_2 {
+	position: absolute;
+	top:262px;
+	margin-left: 284px;
+	width: 210px;
+	padding:10px 0 10px 0;
+	text-align: center;
+	font-family: Georgia;
+	background: #4aaaa5;
+	color: white;
+
+}
+
+.text_3 {
+	position: absolute;
+	bottom: 40px;
+	margin-left: 35px;
+	width: 210px;
+	padding:10px 0 10px 0;
+	text-align: center;
+	font-family: Georgia;
+	background: #4aaaa5;
+	color:white;
+
+}
+
+.text_4 {
+	position: absolute;
+	bottom:40px;
+	margin-left: 284px;
+	width: 210px;
+	padding:10px 0 10px 0;
+	text-align: center;
+	font-family: Georgia;
+	background: #4aaaa5;
+	color: white;
 }
